@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "80a63e2f2b4f3b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae7b597259403cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "180598c26c6e9505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Hat Hackers.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fcefbe32eac97f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe3db3f4c032cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac49484eb6dedd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9708fd5f62833440",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ff904aa428bffd2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "017b54aea9e3120a",
+    "type": "split",
+    "children": [
+      {
+        "id": "022d4773ea0bc94d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "892d860fd2d4b661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blue Hat Hackers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "208bf24aaa04da07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blue Hat Hackers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02a6d363ffdea1e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40aec206073c67dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blue Hat Hackers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "180598c26c6e9505",
+  "lastOpenFiles": [
+    "Vulnerability Brokers.md",
+    "Blue Hat Hackers.md",
+    "Vulnerabilities.md",
+    "CIA Triad.md",
+    "Cybersecurity.md",
+    "Threats.md",
+    "Cyber Attackers.md",
+    "Green Hat Hackers.md",
+    "Script Kiddies.md",
+    "SCRUM Framework.md"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "258d655931d45859",
+    "type": "split",
+    "children": [
+      {
+        "id": "e000abbd0b76f654",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Information Systems Development.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "649ff5b2811acedb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prototyping.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "431491c374772dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "637e638134a85a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08300cde7b864fc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "135a50c3dea49c10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8974a165b49be3f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3a047b05c4c919ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "022810eefc26239d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7906f5fa0b9ff87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Systems Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c36aaec001db3d53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Systems Development.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b65c015f18f06cee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da189b5a585b4503",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Systems Development.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e000abbd0b76f654",
+  "lastOpenFiles": [
+    "Prototyping.md",
+    "Information Systems Development.md",
+    "Traditional Systems Development Life Cycle (SDLC or Waterfall Model).md",
+    "Object-Oriented Model Development Process.md",
+    "Object-Oriented Implementation.md",
+    "Object-Oriented Design.md",
+    "Object-Oriented Analysis.md"
+  ]
+}
