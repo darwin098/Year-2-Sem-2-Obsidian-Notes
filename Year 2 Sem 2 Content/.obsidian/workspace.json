@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4c6ba6fa64e2968",
+        "id": "0fa266034163093d",
         "type": "tabs",
         "children": [
           {
-            "id": "23bac5931f0b923f",
+            "id": "b1f1c278ecf8770d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -131,17 +131,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "23bac5931f0b923f",
+  "active": "b1f1c278ecf8770d",
   "lastOpenFiles": [
-    "Blue Hat Hackers.md",
-    "Vulnerability Brokers.md",
-    "Vulnerabilities.md",
-    "CIA Triad.md",
-    "Cybersecurity.md",
-    "Threats.md",
-    "Cyber Attackers.md",
-    "Green Hat Hackers.md",
-    "Script Kiddies.md",
+    "User Stories.md",
+    "Release Burndown.md",
+    "Product Backlog.md",
+    "Points Assignment.md",
+    "Definition of Done (DoD).md",
+    "Conversation.md",
+    "Card.md",
+    "Confirmation.md",
+    "Acceptance Test.md",
     "SCRUM Framework.md"
   ]
 }
