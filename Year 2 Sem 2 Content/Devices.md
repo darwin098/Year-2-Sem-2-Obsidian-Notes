@@ -1,0 +1,4 @@
+- Used for exchanging messages with each other
+	- Types: 
+		- [[End Devices]]
+		- [[Intermediary Devices]]

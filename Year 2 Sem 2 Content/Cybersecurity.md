@@ -48,3 +48,5 @@
 
 #CybersecurityEssentials
 #EnterpriseSystemsDevelopment
+
+Related: [[Open Web Application Security Project (OWASP)]]
