@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a6ed9684756b0524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sympathy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sympathy.md",
+                "file": "Reseach for Thailand water issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sympathy.md",
+                "file": "Reseach for Thailand water issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sympathy.md"
+                "file": "Reseach for Thailand water issues.md"
               }
             }
           }
@@ -153,8 +140,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a6ed9684756b0524",
+  "active": "cb78c60f19749722",
   "lastOpenFiles": [
+    "Sympathy.md",
     "Reseach for Thailand water issues.md",
     "SEP Tutorial Answers.md",
     "SCRUM Framework.md",
@@ -163,7 +151,6 @@
     "IP Addresses.md",
     "Subnet Masks.md",
     "Computer Networks.md",
-    "Peer-to-Peer Model.md",
-    "Client-Server Model.md"
+    "Peer-to-Peer Model.md"
   ]
 }
