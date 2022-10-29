@@ -4,9 +4,15 @@
 2) C
 3) 2, 3, 4
 4) Product Owner; Scrum Master; Team
-5) A
-6) A
-7) Sprint, Daily Scrum, Sprint Review
+5) C
+6) B
+7) 
+	- Release planning meeting
+	- Sprint planning meeting
+	- Sprint
+	- Daily sprint
+	- Sprint review
+	- Sprint retrospective
 
 # Tutorial 2 
 ---

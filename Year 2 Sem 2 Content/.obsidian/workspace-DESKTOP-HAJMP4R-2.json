@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0b9d0a0337f308be",
+        "id": "15d0fabbebaaca8e",
         "type": "tabs",
         "children": [
           {
-            "id": "0662489cd36eac49",
+            "id": "cb78c60f19749722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISDT CA1.md",
-                "mode": "source",
+                "file": "Sympathy.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#sus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISDT CA1.md",
+                "file": "Sympathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISDT CA1.md",
+                "file": "Sympathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISDT CA1.md"
+                "file": "Sympathy.md"
               }
             }
           }
@@ -141,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0662489cd36eac49",
+  "active": "cb78c60f19749722",
   "lastOpenFiles": [
-    "Reseach for Thailand water issues-DESKTOP-HAJMP4R.md",
+    "Reseach for Thailand water issues.md",
+    "Sympathy.md",
     "SEP Tutorial Answers.md",
-    "Agile Development Methodology.md",
-    "Object-Oriented Model Development Process.md",
-    "Information Systems Development.md",
-    "Traditional Systems Development Life Cycle (SDLC or Waterfall Model).md",
-    "Open Web Application Security Project (OWASP).md",
-    "Cybersecurity.md",
     "SCRUM Framework.md",
-    "Reseach for Thailand water issues.md"
+    "Local Area Network (LAN).md",
+    "Default Gateway.md",
+    "IP Addresses.md",
+    "Subnet Masks.md",
+    "Computer Networks.md",
+    "Peer-to-Peer Model.md"
   ]
 }
