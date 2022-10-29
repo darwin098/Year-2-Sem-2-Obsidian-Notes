@@ -1,6 +1,6 @@
 - The unique address of every end device in a computer network
 - Types:
-	- IPv4 (32-bit)
+	- [[IPv4 Addressing Space]] (32-bit)
 	- IPv6 (128-bit)
 
 ## Format
