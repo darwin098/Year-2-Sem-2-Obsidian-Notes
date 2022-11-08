@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be0b0befe8067cd0",
+        "id": "0b9d0a0337f308be",
         "type": "tabs",
         "children": [
           {
-            "id": "7aa993ec1b91444a",
+            "id": "0662489cd36eac49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ISDT CA1.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SoftwareEngineeringPractice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "017b54aea9e3120a",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ISDT CA1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ISDT CA1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,27 +124,32 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ISDT CA1.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "7aa993ec1b91444a",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dac49484eb6dedd7",
   "lastOpenFiles": [
-    "Clarence SIP script.md",
-    "OSI Seven Layer Model.md",
-    "IP Addresses.md",
-    "IPv4 Addressing Space.md",
-    "Network Address Translation.md",
-    "Use Case Diagrams.md",
+    "Reseach for Thailand water issues-DESKTOP-HAJMP4R.md",
     "SEP Tutorial Answers.md",
-    "Product Backlog.md",
-    "Pasted image 20221031095209.png",
-    "Pasted image 20221031095110.png"
+    "Agile Development Methodology.md",
+    "Object-Oriented Model Development Process.md",
+    "Information Systems Development.md",
+    "Traditional Systems Development Life Cycle (SDLC or Waterfall Model).md",
+    "Open Web Application Security Project (OWASP).md",
+    "Cybersecurity.md",
+    "SCRUM Framework.md",
+    "Reseach for Thailand water issues.md"
   ]
 }

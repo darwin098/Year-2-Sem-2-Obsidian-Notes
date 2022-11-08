@@ -41,4 +41,10 @@
 	- A use case is optionally called by another use case when activated
 	- Direction of arrow is towards the calling use case
 
+## Steps
+---
+1) Find actors
+2) Find use cases of actors
+3) Find relationship
+
 #SoftwareEngineeringPractice 

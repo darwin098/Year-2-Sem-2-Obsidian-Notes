@@ -45,7 +45,7 @@
 - Each sprint will produce a well-tested, defect-free product
 - At the end, we inspect and adapt the product and process
 
-### 1) Timeboxes
+### Timeboxes
 (Refer to schematic)
 - Timeboxes are created to enforce regularity
 
