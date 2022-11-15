@@ -2,7 +2,7 @@
 
 ## Examples
 ---
-- SQL Injection
+- [[SQL Injection]]
 
 ## Prevention
 ---

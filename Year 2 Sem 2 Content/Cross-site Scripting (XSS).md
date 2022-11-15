@@ -9,6 +9,9 @@
 ## Types
 ---
 ### Reflected (Non-persistent) XSS
+
+^0335c5
+
 - The malicious script comes from the current HTTP request
 
 - The simplest variety of XSS
@@ -17,6 +20,9 @@
 - Returned as part of the server's HTML response
 
 ### Stored XSS
+
+^c327f0
+
 - The malicious script comes from the website's database
 
 - Occurs when a web application stores user input and later serves it to others
@@ -24,6 +30,9 @@
 - Relatively more dangerous as it is self-propagating, and anyone that now visits the site is at risk
 
 ### DOM-based XSS
+
+^fd7b5e
+
 - The vulnerability exists in client-side code rather than server-side code
 
 - Document Object Model-based Cross-site Scripting
