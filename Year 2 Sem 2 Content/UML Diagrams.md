@@ -4,14 +4,14 @@
 ## Types of Diagrams
 ---
 ### Static (Shows structural aspects of systems)
-- Use Case
-- Class
+- [[Use Case Diagrams]]
+- [[Class Diagrams]]
 - Object
 
 ### Dynamic (Shows behavioural aspects of systems)
 - State
 - Activity
-- Sequence
+- [[Sequence Diagrams]]
 
 ### Others
 - Collaboration

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "16d2fa63a6c26072",
+        "id": "a2a9c70de4ce3103",
         "type": "tabs",
         "children": [
           {
-            "id": "01a3f4adaa7d6589",
+            "id": "aabbd74e7b6adda2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESDE Quiz 1 Sections.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e6f8d46d3336619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIA Triad.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diagra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIA Triad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIA Triad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CIA Triad.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +129,17 @@
     "width": 267.5,
     "collapsed": true
   },
-  "active": "7e6f8d46d3336619",
+  "active": "aabbd74e7b6adda2",
   "lastOpenFiles": [
-    "ESDE Quiz 1 Sections.md",
-    "A05 2017 - Broken Access Control.md",
-    "A02 2017 - Broken Authentication.md",
-    "A01 2017 - Injection.md",
-    "Vulnerability Brokers.md",
-    "Open Web Application Security Project (OWASP).md",
-    "Cyber Attackers.md",
-    "State-sponsored Attackers.md",
-    "Hacktivists.md",
-    "CIA Triad.md"
+    "Use Case Diagrams.md",
+    "UML Diagrams.md",
+    "Sequence Diagrams.md",
+    "Class Diagrams.md",
+    "Pasted image 20221030151522.png",
+    "Information Systems Development.md",
+    "Object-Oriented Analysis.md",
+    "User Stories.md",
+    "Card.md",
+    "Conversation.md"
   ]
 }

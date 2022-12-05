@@ -1,50 +1,37 @@
-## Purpose
+## Key Elements
 ---
-- To develop a system right
-- To develop the right system (A system where user requirements are met)
-- For use case modelling - Effectively capturing / documenting the user requirements
+- Use cases
+- Systems
+- Actors
+- Associations
 
-## Artefacts
+### Use Case
 ---
-### Use Case Diagram
-- Consists of use cases, actors and relationships between actors and use cases, and also between use cases
-- Shows the overall functionalities of the system
-- Helps in defining the scope of the system to be built
+- A bubble carrying the case title
+- Associated with actors and possibly other user cases
 
-#### Actor
-##### 1) Users of the system
-	- Users represents the role of the user play with respect to the system
-##### 2) Other systems that will interact with the system built
-##### 3) Devices
-##### 4) Time
-
-#### Use Case
-- Represents the use of functionality of the system from the users' perspective, that are of value to the actors
-- Specifications:
-	- Format of a use Case
-	- Flow of Events
-		- Expected Flow
-		- Alternate Flow
-		- Error Flow
-	- Pre-condition
-	- Post-condition
-
-##### Example
-![[Pasted image 20221030151522.png]]
-
-
-#### Relationship
-- A use case must be called by another use case whenever it is activated
-
-##### Types
-- Extend Relationship
-	- A use case is optionally called by another use case when activated
-	- Direction of arrow is towards the calling use case
-
-## Steps
+### Actor
 ---
-1) Find actors
-2) Find use cases of actors
-3) Find relationship
+- A user's role with respect to the system
+- May be a human or another system
+- Primary actor: whose goal is fulfilled by the use case
+- Secondary actor: who is involved in the use case
+	- Often an external system
+
+### Association
+---
+- Between actor and use case
+	- Arrows from primary to use case
+	- Arrows from use case to secondary
+- Between use cases
+	- Include
+		- For reusable parts of behaviour across two or more use cases
+	- Extend
+		- Optional behaviour added to use case
+	- Generalization
+		- When one use case is a special case of another more general use case
+- Between actors
+	- Generalization
+		- Inheritance relationship between actors
 
 #SoftwareEngineeringPractice 

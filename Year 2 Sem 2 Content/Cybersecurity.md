@@ -45,6 +45,10 @@
  - Join Professional Organizations
 	 - Joining computer security organizations, attending meetings/conferences and joining forums allow gaining knowledge from experts
 
+## Secure Coding
+---
+- [[Securing a Web Application]]
+
 
 #CybersecurityEssentials
 #EnterpriseSystemsDevelopment

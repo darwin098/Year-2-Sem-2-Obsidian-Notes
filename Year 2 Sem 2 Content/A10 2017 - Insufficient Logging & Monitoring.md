@@ -1,5 +1,5 @@
 - Occurs when organizations do not put in place robust logging mechanisms or respond to alerts of potential attacks
-- Allows attackers to achieve their goals without begin detected
+- Allows attackers to achieve their goals without being detected
 
 ## Example
 ---

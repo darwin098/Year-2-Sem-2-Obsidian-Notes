@@ -8,4 +8,6 @@
 - Ensure a new random session ID with high entropy after login
 - Session IDs should not be in the URL, and be securely stored and invalidated after logout, idle, and absolute timeouts
 
+Related: [[Authentication]]
+
 #EnterpriseSystemsDevelopment 
